@@ -10,7 +10,7 @@ public class Main {
     }
 
     public static int mul(int i, int j){
-        return i * j;
+        return i * j * i;
     }
 
     public static float div(int i, int j){
