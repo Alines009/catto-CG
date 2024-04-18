@@ -1,0 +1,9 @@
+---
+outputPath:
+  - C:\Users\silva\IdeaProjects\untitled1\src\main\java
+  - C:\Users\silva\IdeaProjects\untitled1\src\test\java
+dependencies:
+  - C:\Program Files\Java\jdk1.8.0_202\jre\lib\jce.jar
+  - C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar
+  - C:\Program Files\Java\jdk1.8.0_202\lib
+tempFolderPath: ".tmp"
