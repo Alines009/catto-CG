@@ -12,14 +12,4 @@ public class MainTest {
     public void demoMulMethod() {
         Assert.assertEquals(15, Main.mul(3,5));
     }
-
-    @Test
-    public void demoDivMethod() {
-        Assert.assertEquals(2, Main.div(4,2));
-    }
-
-    @Test
-    public void demoDiv2Method() {
-        Assert.assertEquals(2, Main.div(6,3));
-    }
 }

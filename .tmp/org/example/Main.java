@@ -13,7 +13,4 @@ public class Main {
         return i * j;
     }
 
-    public static int div(int i, int j){
-        return i/j;
-    }
 }
